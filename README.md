@@ -2,7 +2,7 @@
 <h3 align="center">1337</h3>
 
 ![michal-kvac-night-city-process](https://user-images.githubusercontent.com/91694520/162339443-30920d8b-f7e7-4cf1-9eb8-4f8e186bea31.gif)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stetic&label=Profile%20views&color=0e75b6&style=flat" alt="stetic" /> </p>
 
 - 💬 Ask me about **IT Security**
 
