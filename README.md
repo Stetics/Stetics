@@ -1,3 +1,3 @@
-![Stetic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stetics&show_icons=true&theme=radical)
+
 
 
